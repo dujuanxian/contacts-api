@@ -1,0 +1,14 @@
+{
+  "contacts": [
+    { "id": 1, "name": "张三", "nickname": "Zhang San", "company": "某单位", "phoneNumber": "10101010100", "birthday": "1989-11-11", "comment": "这是我的朋友张三，人很好", "groups": [] },
+    { "id": 2, "name": "李四", "nickname": "Li Si", "company": "某单位", "phoneNumber": "10101010100", "birthday": "1989-11-11", "comment": "这是我的朋友李四，不是很熟悉。这是我的朋友李四，不是很熟悉这是我的朋友李四，不是很熟悉这是我的朋友李四，不是很熟悉这是我的朋友李四，不是很熟悉", "groups": [] },
+    { "id": 3, "name": "Jonny Ben", "nickname": "本本", "company": null, "phoneNumber": "10101010100", "birthday": "1989-11-11", "comment": null, "groups": []  },
+    { "id": 4, "name": "张四", "nickname": null, "company": null, "phoneNumber": "10101010100", "birthday": null, "comment": null, "groups": [] },
+    { "id": 5, "name": "张五", "nickname": null, "company": null, "phoneNumber": "10101010100", "birthday": null, "comment": null, "groups": [] },
+    { "id": 6, "name": "张六", "nickname": null, "company": null, "phoneNumber": "10101010100", "birthday": null, "comment": null, "groups": [] },
+    { "id": 7, "name": "李三", "nickname": null, "company": null, "phoneNumber": "10101010100", "birthday": null, "comment": null, "groups": [] },
+    { "id": 8, "name": "牛四", "nickname": null, "company": null, "phoneNumber": "10101010100", "birthday": null, "comment": null, "groups": [] },
+    { "id": 9, "name": "朱七", "nickname": null, "company": null, "phoneNumber": "10101010100", "birthday": null, "comment": null, "groups": [] },
+    { "id": 10, "name": "王粑粑", "nickname": null, "company": null, "phoneNumber": "10101010100", "birthday": null, "comment": null, "groups": [] }
+  ]
+}
