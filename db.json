@@ -15,7 +15,7 @@
     {
       "question": "Set background color to indianred for box",
       "description": "<p>Check <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/background-color\">background</a> CSS property to set the background color of an element.</p>",
-      "code": ".box {\\n\\t// your code here\\n}",
+      "code": ".box {\n\t// your code here\n}",
       "result": ".box {background-color: indianred}"
     }
   ]
