@@ -11,12 +11,18 @@
     { "id": 9, "name": "朱七", "nickname": null, "company": null, "phoneNumber": "10101010100", "birthday": null, "comment": null, "groups": null },
     { "id": 10, "name": "王粑粑", "nickname": null, "company": null, "phoneNumber": "10101010100", "birthday": null, "comment": null, "groups": null }
   ],
-  "css": [
+  "games": [
     {
       "id": 1,
       "question": "Set background color to indianred for box",
       "description": "<p>Check <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/background-color\">background</a> CSS property to set the background color of an element.</p>",
-      "code": ".box {\n\t// your code here\n}",
+      "code": ".box {\n\t// your code here\n}"
+    }
+  ],
+  "answers": [
+    {
+      "id": 1,
+      "gameId": 1,
       "result": ".box {background-color: indianred}"
     }
   ]
