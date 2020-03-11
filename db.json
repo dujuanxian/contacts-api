@@ -24,7 +24,8 @@
     {
       "id": 1,
       "gameId": 1,
-      "result": ".box {background-color: indianred}"
+      "result": ".box {background-color: indianred}",
+      "baseStyle": ".box { width: 100px; height: 100px; border: 2px solid black; }"
     }
   ]
 }
